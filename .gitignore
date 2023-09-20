@@ -1,0 +1,4 @@
+.envrc
+.mgt-cluster-kubeconfig.yaml
+hack/tools/bin
+.pre-commit-config.yaml
